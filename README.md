@@ -11,7 +11,7 @@ The code is tested on OpenCV 3.0 or later and Visual Studio 2012. We built a MFC
 [2] Fujita S, Fukushima N, Kimura M, et al. Randomized redundant DCT: efficient denoising by using random subsampling of DCT patches[C]  SIGGRAPH Asia 2015 Technical Briefs. ACM, 2015. <br>
 [3] Guangyong Chen, Fengyuan Zhu, Pheng Ann Heng, An Efficient Statistical Method for Image Noise Level Estimation, ICCV, 2015, 2015 IEEE International Conference on Computer Vision (ICCV), 2015 IEEE International Conference on Computer Vision (ICCV) 2015, pp. 477-485, doi:10.1109/ICCV.2015.62. 
 # results
-we show some image patch here of the noise image and denoised image. From the result, we can see this algorithm has a good performance.<br>
+we show some image patchs of the noise image and denoised image. From the result, we can see this algorithm has a good performance.<br>
 ![image](./screenshot/noise.png)
 ![image](./screenshot/denoised.png)
 <br>
